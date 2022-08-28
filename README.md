@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Johan</h1>
+<h1 align="center">Hi 👋 I'm Johan</h1>
 <h3 align="center">A recent Le Wagon graduate with a budding passion for frontend engineering, clean design and bold gradients!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johan-van-meeuwen&label=Profile%20views&color=0e75b6&style=flat" alt="johan-van-meeuwen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johan-van-meeuwen" alt="johan-van-meeuwen" /></a> </p>
 
-- 🔭 I’m currently working on [Devder](https://github.com/DUBIHUBI/devder)
+- 🔭 I’m currently working at Paddle as a Support Engineer
 
-- 🌱 I’m currently learning **JavaScript, React, TypeScript and testing!**
+- 🌱 I’m currently learning **JavaScript, React and TypeScript**
 
-- 👯 I’m looking to collaborate on **new, exciting projects where I can offer my frontend skills**
+- 👯 I’m looking to collaborate on **new, exciting projects to offer my frontend skills**
 
 - 🤝 I’m looking for help with **JavaScript, React, TypeScript and testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Johan-van-Meeuwen](https://github.com/Johan-van-Meeuwen)
 
 - 💬 Ask me about **Ruby, Ruby on Rails, SQL, HTML, CSS, JavaScript, Figma, Git, GitHub or Heroku!**
-
-- 📫 How to reach me **vanmeeuwen.j@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/johan-van-meeuwen](https://www.linkedin.com/in/johan-van-meeuwen)
 
